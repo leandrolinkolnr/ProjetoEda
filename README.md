@@ -1,6 +1,6 @@
 # ProjetoEda
--> Leandro Lincoln Rodrigues
--> João Antônio
+-> Leandro Lincoln Rodrigues.
+-> João Antônio.
 
  
 Esse software foi desenvolvido durante a disciplina de Estrutura de dados e Algoritmo. Ele consiste na leitura, processamento e manipulação de um arquivo csv. 
