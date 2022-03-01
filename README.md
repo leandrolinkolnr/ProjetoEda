@@ -1,5 +1,6 @@
-# ProjetoEda
+# Projeto Estrutura de dados e algoritmos
 -> Leandro Lincoln Rodrigues.
+
 -> João Antônio.
 
  
