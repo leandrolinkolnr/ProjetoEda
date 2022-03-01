@@ -1,6 +1,6 @@
 # ProjetoEda
-# Leandro Lincoln Rodrigues
-#João Antônio
+-> Leandro Lincoln Rodrigues
+-> João Antônio
 
  
      Esse software foi desenvolvido durante a disciplina de Estrutura de dados e Algoritmo. Ele consiste na leitura, processamento e manipulação de um arquivo csv. 
@@ -10,26 +10,26 @@
 - Para execução deste software, será necessário seguir alguns passos:
 
 
-# Primeiramente, é necessário ter o Java na sua máquina. Caso nao o tenha, é necessário instala-lo. 
+- Primeiramente, é necessário ter o Java na sua máquina. Caso nao o tenha, é necessário instala-lo. 
 
 
-# Em seguida, é preciso clonar este repositorio para a sua maquina.
+- Em seguida, é preciso clonar este repositorio para a sua maquina.
 
 
-# Tambem é necessário baixar o arquivo csv na sua maquina, pois é em cima dele que iremos trabalhar durante toda a execução do software.
+- Tambem é necessário baixar o arquivo csv na sua maquina, pois é em cima dele que iremos trabalhar durante toda a execução do software.
 Atenção : É importante te-lo em um lugar de fácil visibilidade, pois é necessário indicar no programa o caminho onde o arquivo se encontra.
 
 
-# Após isso, é preciso abrir o arquivo 'Main' (através de algum editor de texto ou de uma IDE) e alterar o caminho do arquivo csv, colocando onde se encontra o arquivo na sua maquina. (Linha 101).
+- Após isso, é preciso abrir o arquivo 'Main' (através de algum editor de texto ou de uma IDE) e alterar o caminho do arquivo csv, colocando onde se encontra o arquivo na sua maquina. (Linha 101).
 
 
-# Depois disso, é preciso ir no arquivo 'ManipularVetor', e alterar o 'caminho_padrao', que é onde o arquivo googleplaystore_date.csv (apos a transformação da data) será salvo.
+- Depois disso, é preciso ir no arquivo 'ManipularVetor', e alterar o 'caminho_padrao', que é onde o arquivo googleplaystore_date.csv (apos a transformação da data) será salvo.
 
 
-# Em seguida, novamente no arquivo "Main",  alterar o caminho do arquivo csv, colocando o caminho que voce acabou de definir para o arquivo googleplaystore_date.csv (Linha 111).
+- Em seguida, novamente no arquivo "Main",  alterar o caminho do arquivo csv, colocando o caminho que voce acabou de definir para o arquivo googleplaystore_date.csv (Linha 111).
 
 
-# Após essas alterações feitas, escolha uma IDE de sua preferencia para executar o programa java. Nela, voce deve importar o projeto que vc baixou.
+- Após essas alterações feitas, escolha uma IDE de sua preferencia para executar o programa java. Nela, voce deve importar o projeto que vc baixou.
 
 
 - Quando o programa for executado, ele mostrará uma pequena apresentação e logo após um menu onde sao apresentadas algumas opções:
