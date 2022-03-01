@@ -3,8 +3,8 @@
 -> João Antônio
 
  
-     Esse software foi desenvolvido durante a disciplina de Estrutura de dados e Algoritmo. Ele consiste na leitura, processamento e manipulação de um arquivo csv. 
-     Seu objetivo principal é ordenar o arquivo recebido de acordo com o campo e algoritmo escolhido pelo usuário.
+Esse software foi desenvolvido durante a disciplina de Estrutura de dados e Algoritmo. Ele consiste na leitura, processamento e manipulação de um arquivo csv. 
+Seu objetivo principal é ordenar o arquivo recebido de acordo com o campo e algoritmo escolhido pelo usuário.
      
 
 - Para execução deste software, será necessário seguir alguns passos:
